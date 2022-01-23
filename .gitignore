@@ -1,7 +1,7 @@
 #node for react
 .parcel-cache
-dist
-node-modules
+dist/
+node-modules/
 
 
 # Byte-compiled / optimized / DLL files
