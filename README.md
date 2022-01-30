@@ -1,2 +1,2 @@
 # Web-python
-##Tring a flask project with react frontend
+## Trying a flask project with react frontend
